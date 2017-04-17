@@ -1,0 +1,11 @@
+{
+"Name": "The Adolescent Development Study",
+"BIDSVersion": "1.0.0rc1",
+"License": "",
+"Authors": ["Shady El Damaty, John VanMeter, Diana J. Fishbein"],
+"Acknowledgements": "say here what are your acknowledgments", "HowToAcknowledge": "say here how you would like to be
+acknowledged",
+"Funding": "list your funding sources",
+"ReferencesAndLinks": ["a data paper", "a resource to be cited
+when using the data"], "DatasetDOI": "foo-bar"
+}

@@ -1,0 +1,781 @@
+{"sub-064" : {
+	"Description": "Behavior Collected from Adolescent Development Study in JavaScript Object Notation Format (JSON).\n\n !! This is a dummy dataset generated with random numbers.",
+	"Session": "ses-002",
+	"Child-Surveys": {
+		"BISBAS": {
+			"Description": [],
+			"References": [],
+			"DataProblems": [],
+			"Data": {
+				"Scored": {
+					"BASDrive": [.76],
+					"BASFunSeeking": [.97],
+					"BASRewardResponsiveness": [.17]
+				},
+				"Raw": []
+			}
+		},
+		"DUSI": {
+			"Description": [],
+			"References": [],
+			"DataProblems": [],
+			"Data": {
+				"Scored": {
+					"AbsoluteProblemDensity": [.38],
+					"Subscales": {
+						"SubstanceUse": [.58],
+						"Behavior": [.79],
+						"Health": [0],
+						"Emotion": [.20],
+						"Social": [.41],
+						"Family": [.61],
+						"School": [.82],
+						"Work": [.03],
+						"Peer": [.23],
+						"Leisure": [.44],
+						"Lie": [8]						
+					},
+					"Antisocial": [.77],
+					"MoodDisorders": [.97],
+					"ADHD": [.18],
+					"Violence":[5]
+				},
+				"Raw": []
+			}
+		},
+		"GamblingInventory": {
+			"Description": [],
+			"References": [],
+			"DataProblems": [],
+			"Data": {
+				"Scored": {
+					"Score": [4]
+				},
+				"Raw": []
+			}
+		},
+		"Moderators": {
+			"Description": [],
+			"References": [],
+			"DataProblems": []
+			"Data:"{
+				"Scored": {
+					"Belief_Parent_Approve": [1],
+					"Belief_Peer_Approve": [0],
+					"Belief_Parent_Use": [7],
+					"Belief_Peer_Use": [6],
+					"Pos_Alc_Expectancy": [3],
+					"Neg_Alc_Expectancy": [2],
+					"Close_Parents": [1],
+					"Parental_Monitoring": [7]
+				},
+				"Raw": []
+			}
+		},
+		"Responsibility": {
+			"Description": [],
+			"References": [],
+			"DataProblems": [],
+			"Data": {
+				"Scored": {
+					"Score": [6]
+				},
+				"Raw": []
+			}
+		},
+		"SleepHabits": {
+			"Description": [],
+			"References": [],
+			"DataProblems": [],
+			"Data": {
+				"Scored": {
+					"Score": [3]
+				},
+				"Raw": []
+			}
+		},
+		"SelfReportedDrugUse": {
+			"Description": [],
+			"References": [],
+			"DataProblems": [],
+			"Data": {
+				"Scored": {
+					"Alcohol": {
+						"Use": TRUE,
+						"Frequency": 1
+					},  
+					"Amphetamines/Stimulants/Uppers": {
+						"Use": TRUE,
+						"Frequency": 6
+					},	
+					"Cocaine/Crack": {
+						"Use": FALSE,
+						"Frequency": 4
+					},  
+					"Prescription/OvertheCounter": {
+						"Use": FALSE,
+						"Frequency": 9,
+					},
+					"Opiates/Heroin/Morphine/Quaaludes/Barbiturates/Methadone/PCP/TranquilizerPills": {
+						"Use": TRUE,
+						"Frequency": 7
+					}, 
+					"LSD/Hallucinogens": {
+						"Use": TRUE,
+						"Frequency": 4
+					}, 
+					"Ectasy": {
+						"Use": TRUE,
+						"Frequency": 0
+					},
+					"Marijuana/SyntheticMarijuana/Spice": {
+						"Use": FALSE,
+						"Frequency": 6
+					},
+					"Glue/Gasoline/OtherFumes": {
+						"Use": FALSE,
+						"Frequency": 3
+					},
+					"Smoking/ChewingTobacco": {
+						"Use": TRUE,
+						"Frequency": 9
+					},
+					"AnabolicSteroids": {
+						"Use": TRUE,
+						"Frequency": 6
+					},
+					"Salvia": {
+						"Use": FALSE,
+						"Frequency": 4
+					}
+				}
+			}
+		}
+	},
+	"Parent-Surveys": {
+		"ADHD": {
+			"Description": [],
+			"References": [],
+			"DataProblems": [],
+			"Data": {
+				"Scored": {
+					"Inattention": 1,
+					"Impulsivity": 0,
+					"Temperament": 7
+				},
+				"Raw": []
+			}
+		},
+		"BRIEF": {
+			"Description": [],
+			"References": [],
+			"DataProblems": [],
+			"Data": {
+				"Scored": {
+					"Subscales": {
+						"Inhibit": 6,
+						"Shift": 3,
+						"EmotionalControl": 1,
+						"Initiation": 8,
+						"WorkingMemory": 7,
+						"Planning": 4,
+						"Organization": 3,
+						"Monitoring": 0
+					},
+					"BehavioralRegulationIndex": 9,
+					"Meta-CognitionIndex": 8,
+					"GlobalExecutiveComposite": 5									
+				},
+				"Raw": []
+			}
+		},
+		"DUSI-P": {
+			"Description": "DUSI scores from parent's perceptions of child",
+			"References": [],
+			"DataProblems": [],
+			"Data": {
+				"Scored": {
+					"AbsoluteProblemDensity": [.11],
+					"Subscales": {
+						"SubstanceUse": [.31],
+						"Behavior": [.52],
+						"Health": [.72],
+						"Emotion": [.93],
+						"Social": [.14],
+						"Family": [.34],
+						"School": [.55],
+						"Work": [.75],
+						"Peer": [.96],
+						"Leisure": [.17],
+						"Lie": [7]						
+					},
+					"Antisocial": [.50],
+					"MoodDisorders": [.70],
+					"ADHD": [.91],
+					"Violence":[4]
+				},
+				"Raw": []
+			}
+		},
+		"FamilyHistoryDrugUse": {
+			"Description": [],
+			"References": [],
+			"DataProblems": [],
+			"Data": {
+				"Scored": {
+					"FamilyHistoryDensity-Alcohol": [.24],
+					"FPA-Alcohol": [.40],
+					"FamilyHistoryDensity-Drugs": [.61],
+					"FPA-Drugs": [.81]					
+				}
+			},
+			"Raw": {
+				"MaternalGrandMother-Alcohol": [FALSE],
+				"MaternalGrandFather-Alcohol": [TRUE],
+				"MaternalAunt(s)-Alcohol": [FALSE FALSE],
+				"MaternalUncle(s)-Alcohol": [TRUE FALSE],
+				"PaternalGrandMother-Alcohol": [TRUE],
+				"PaternalGrandFather-Alcohol": [FALSE],
+				"PaternalAunt(s)-Alcohol": [TRUE TRUE],
+				"PaternalUncle(s)-Alcohol": [FALSE TRUE],
+				"Brother(s)-Alcohol": [FALSE],
+				"Sister(s)-Alcohol": [TRUE],
+				"MaternalGrandMother-Alcohol": [FALSE],
+				"MaternalGrandFather-Drugs": [FALSE],
+				"MaternalAunt(s)-Drugs": [TRUE FALSE],
+				"MaternalUncle(s)-Drugs": [TRUE TRUE],
+				"PaternalGrandMother-Drugs": [FALSE],
+				"PaternalGrandFather-Drugs": [TRUE],
+				"PaternalAunt(s)-Drugs": [FALSE TRUE],
+				"PaternalUncle(s)-Drugs": [FALSE FALSE],
+				"Brother(s)-Drugs": [TRUE],
+				"Sister(s)-Drugs": [FALSE]				
+			}
+		},
+		"KBIT": {
+			"Description": [],
+			"References": [],
+			"DataProblems": [],
+			"Data": {
+				"Scored": {
+					"PeformanceIQ": [380],
+					"VerbalIQ": [18127],
+					"TotalIQ": [3106]
+				},
+				"Raw": []
+			}
+		},	
+		"PerinatalTrauma": {
+			"Description": [],
+			"References": [],
+			"DataProblems": [],
+			"Data": {
+				"Scored": {
+					"Score": [3]
+				},
+				"Raw": []
+			}
+		},
+		"RAVLT": {
+			"Description": [],
+			"References": [],
+			"DataProblems": [],
+			"Data": {
+				"Scored": {
+					"Score": [.64]
+				},
+				"Raw": []
+			}
+		},		
+		"Responsibility": {
+			"Description": [],
+			"References": [],
+			"DataProblems": [],
+			"Data": {
+				"Scored": {
+					"Score": [7]
+				},
+				"Raw": []
+			}
+		}
+	},
+	"Neuropsych": {
+		"EmotionalStroop": {
+			"Description": [],
+			"References": [],
+			"DataProblems": [],
+			"Data": {
+				"TrialsRTs": [],
+				"Condition": [],
+				"CorrectTrialResponses": [],
+				"Onset": [],
+				"Duration": [],
+				"Block": [],
+				"Scored": {
+					"ReactionTime": {
+						"Mean": {
+							"Positive": [9466],
+							"Negative": [27213],
+							"Neutral": [12192],
+							"Alcohol": [29939]							
+						},
+						"Stdev": {
+							"Positive": [14918],
+							"Negative": [32665],
+							"Neutral": [17644],
+							"Alcohol": [2623]														
+						}					
+					},
+					"Performance": {
+						"Positive": [.96],
+						"Negative": [.17],
+						"Neutral": [.37],
+						"Alcohol": [.58]
+					},
+					"Numtrials": {
+						"Positive": [29456],
+						"Negative": [14435],
+						"Neutral": [32182],
+						"Alcohol": [17161]														
+					},										
+				}
+			}
+		},
+		"EmotionalFaceRecognition": {
+			"Description": [],
+			"References": [],
+			"DataProblems": [],
+			"Data": {
+				"TrialsRTs": [],
+				"Condition": [],
+				"CorrectTrialResponses": [],
+				"Onset": [],
+				"Duration": [],
+				"Block": [],				
+				"Scored": {
+					"ReactionTime": {
+						"Mean": {
+							"Anger": [2139],
+							"Fear": [19886],
+							"Hapiness": [4865],
+							"Neutral": [22612],
+							"Sadness": [7591],
+							"Surprise": [25338]
+						},
+						"Stdev": {
+							"Anger": [10317],
+							"Fear": [28064],
+							"Hapiness": [13043],
+							"Neutral": [30790],
+							"Sadness": [15769],
+							"Surprise": [748]							
+						}
+					},
+					"Performance": {
+						"Anger": [.28],
+						"Fear": [.01],
+						"Hapiness": [.21],
+						"Neutral": [.42],
+						"Sadness": [.62],
+						"Surprise": [.83]
+					},
+					"Numtrials": {
+							"Anger": [16194],
+							"Fear": [1173],
+							"Hapiness": [18920],
+							"Neutral": [3899],
+							"Sadness": [21646],
+							"Surprise": [6625]						
+					}
+				},
+			}
+		},
+		"GoNoGo": {
+			"Description": [],
+			"References": [],
+			"DataProblems": [],
+			"Data": {
+				"TrialsRTs": [],
+				"Condition": [],
+				"CorrectTrialResponses": [],
+				"Onset": [],
+				"Duration": [],
+				"Block": [],				
+				"Scored": {
+					"ReactionTime": {
+						"Mean": {
+							"Hit": [24371],
+							"Miss": [9350],
+							"CorrectRejection": [27097],
+							"FalseAlarm": [12076],
+						},
+						"Stdev": {
+							"Hit": [29823],
+							"Miss": [14802],
+							"CorrectRejection": [32549],
+							"FalseAlarm": [17528],
+						}						
+					},
+					"Performance": {
+						"Hit": [.77],
+						"Miss": [.97],
+						"CorrectRejection": [.18],
+						"FalseAlarm": [.38],
+					},
+					"Numtrials": {
+						"Hit": [.59],
+						"Miss": [.79],
+						"CorrectRejection": [0],
+						"FalseAlarm": [.21],						
+					},
+					"SignalDetection": {
+						"dprime": [.41],
+						"Aprime": [.62],
+						"beta": [.82],
+						"c": [.03],
+					},
+					"Numtrials": {
+						"Hit": [29765],
+						"Miss": [14744],
+						"CorrectRejection": [32491],
+						"FalseAlarm": [1540],						
+					}
+				}
+			}
+		},
+		"SpatialWorkingMemory": {
+			"Description": [],
+			"References": [],
+			"DataProblems": [],
+			"Data": {
+				"TrialsRTs": [],
+				"Condition": [],
+				"CorrectTrialResponses": [],
+				"Onset": [],
+				"Duration": [],
+				"Block": [],				
+				"Scored": {
+					"RawScore": {
+						"TotalErrors": {
+							"4Boxes": [7],
+							"6Boxes": [6],
+							"8Boxes": [3],
+							"10Boxes": [2],
+							"12Boxes": [9]
+						}, 
+						"WithinErrors": {
+							"4Boxes": [8],
+							"6Boxes": [5],
+							"8Boxes": [4],
+							"10Boxes": [1],
+							"12Boxes": [9]
+						}, 						
+						"SWM-BetweenErrors": {
+							"4Boxes": [8],
+							"6Boxes": [5],
+							"8Boxes": [4],
+							"10Boxes": [1],
+							"12Boxes": [0]
+						}, 
+						"SWM-DoubleErrors": {
+							"4Boxes": [7],
+							"6Boxes": [6],
+							"8Boxes": [3],
+							"10Boxes": [2],
+							"12Boxes": [9]
+						}, 
+						"SWM-Strategy": {
+							"4Boxes": [8],
+							"6Boxes": [4],
+							"8Boxes": [3],
+							"10Boxes": [2],
+							"12Boxes": [9]
+						}, 
+					},
+					"ZScored": {
+						"TotalErrors": {
+							"4Boxes": [8],
+							"6Boxes": [5],
+							"8Boxes": [4],
+							"10Boxes": [1],
+							"12Boxes": [0]
+						}, 
+						"WithinErrors": {
+							"4Boxes": [7],
+							"6Boxes": [6],
+							"8Boxes": [3],
+							"10Boxes": [2],
+							"12Boxes": [0]
+						}, 						
+						"SWM-BetweenErrors": {
+							"4Boxes": [7],
+							"6Boxes": [6],
+							"8Boxes": [3],
+							"10Boxes": [2],
+							"12Boxes": [9]
+						}, 
+						"SWM-DoubleErrors": {
+							"4Boxes": [8],
+							"6Boxes": [5],
+							"8Boxes": [4],
+							"10Boxes": [1],
+							"12Boxes": [0]
+						}, 
+						"SWM-Strategy": {
+							"4Boxes": [7],
+							"6Boxes": [5],
+							"8Boxes": [4],
+							"10Boxes": [1],
+							"12Boxes": [0]
+						},						
+					},
+					"MeanFirstResponseTime": {
+						"4Boxes": [21897],
+						"6Boxes": [6876],
+						"8Boxes": [24623]
+					},
+					"MedianFirstResponseTime": {
+						"4Boxes": [25532],
+						"6Boxes": [10511],
+						"8Boxes": [28257]
+					},
+					"StdevFirstResponseTime": {
+						"4Boxes": [13236],
+						"6Boxes": [30983],
+						"8Boxes": [15962]
+					},
+					"MeanLastResponseTime": {
+						"4Boxes": [941],
+						"6Boxes": [18688],
+						"8Boxes": [3667]
+					},
+					"MedianLastResponseTime": {
+						"4Boxes": [21414],
+						"6Boxes": [6393],
+						"8Boxes": [24140]
+					},
+					"StdevLastResponseTime": {
+						"4Boxes": [9119],
+						"6Boxes": [26866],
+						"8Boxes": [11844]
+					},
+					"MeanTokenSearchTime": {
+						"4Boxes": [29591],
+						"6Boxes": [14570],
+						"8Boxes": [32317]
+					},
+					"MedianTokenSearchTime": {
+						"4Boxes": [17296],
+						"6Boxes": [2275],
+						"8Boxes": [20022]
+					},
+					"StdevTokenSearchTime": {
+						"4Boxes": [5001],
+						"6Boxes": [22748],
+						"8Boxes": [7727]
+					},
+					"MeanTokenSearchTime": {
+						"4Boxes": [25474],
+						"6Boxes": [10453],
+						"8Boxes": [28199]
+					},
+					"MedianTokenSearchTime": {
+						"4Boxes": [13178],
+						"6Boxes": [30925],
+						"8Boxes": [15904]
+					},
+					"StdevTokenSearchTime": {
+						"4Boxes": [883],
+						"6Boxes": [18630],
+						"8Boxes": [3609]
+					},	
+					"Numtrials": [21356]
+				}
+			}
+		},
+		"StockingsofCambridge": {
+			"Description": [],
+			"References": [],
+			"DataProblems": [],
+			"Data": {
+				"TrialsRTs": [],
+				"Condition": [],
+				"CorrectTrialResponses": [],
+				"Onset": [],
+				"Duration": [],
+				"Block": [],				
+				"Scored": {
+					"RawScore": {
+						"MeanInitialThinkTime": {
+							"2-Moves": [6335],
+							"3-Moves": [24082],
+							"4-Moves": [9061],
+							"5-Moves": [26808]
+						},
+						"MeanSubseqThinkTime": {
+							"2-Moves": [11787],
+							"3-Moves": [29533],
+							"4-Moves": [14512],
+							"5-Moves": [32259]
+						},
+						"MeanMoves": {
+							"2-Moves": [8],
+							"3-Moves": [7],
+							"4-Moves": [4],
+							"5-Moves": [3]						
+						},
+						"ProblemsSolvedinMinMoves": [0]
+					},
+					"ZScored": {
+						"MeanInitialThinkTime": {
+							"2-Moves": [7669],
+							"3-Moves": [25416],
+							"4-Moves": [10395],
+							"5-Moves": [28142]
+						},
+						"MeanSubseqThinkTime": {
+							"2-Moves": [13120],
+							"3-Moves": [30867],
+							"4-Moves": [15846],
+							"5-Moves": [825]
+						},
+						"MeanMoves": {
+							"2-Moves": [2],
+							"3-Moves": [1],
+							"4-Moves": [8],
+							"5-Moves": [7]													
+						}
+					}
+				}
+			}
+		},
+		"TemporalDicounting": {
+			"Description": [],
+			"References": [],
+			"DataProblems": [],
+			"Data": {
+				"TrialsRTs": [],
+				"Condition": [],
+				"CorrectTrialResponses": [],
+				"Onset": [],
+				"Duration": [],
+				"Block": [],
+				"Scored": {
+					"AUC": {
+						"Regular": [.56],
+						"Cord.Borges": [.77],
+						"AUClogd.Borges": [.98]
+					},
+					"IndifferencePoint": {
+						"Raw": {
+							"Mean": [14454],
+							"Present": [32201],
+							"1day": [17180],
+							"2days": [2159],
+							"10days": [19906],
+							"30days": [4885],
+							"80days": [22632],
+							"360days": [7611]
+						},
+						"Normalized": {
+							"Mean": [25358],
+							"Present": [10337],
+							"1day": [28084],
+							"2days": [13063],
+							"10days": [30809],
+							"30days": [15788],
+							"80days": [767],
+							"360days": [18514]
+						}						
+					},
+					"ReactionTime": {
+						"1day": [3493],
+						"2days": [21240],
+						"10days": [6219],
+						"30days": [23966],
+						"80days": [8945],
+						"360days": [26692]
+					},
+					"Numtrials": [(insert-random-data.sh)]
+				}
+			}
+		},
+		"Trails": {
+			"Description": [],
+			"References": [],
+			"DataProblems": [],
+			"Data": {
+				"TrialsRTs": [],
+				"Condition": [],
+				"CorrectTrialResponses": [],
+				"Onset": [],
+				"Duration": [],
+				"Block": [],
+				"Scored": {
+					"Session-A": {
+						"RunTime": [28509],
+						"LatencyTime": [13488],
+						"ButtonClicks": [31235],
+						"NotOnButtonError": [16214],
+						"OutofSequenceError": [1193],
+						"LineLength": [18940],
+						"LineLengthPct": [3918],
+						"Speed":[21665],
+					},
+					"Session-B": {
+						"RunTime": [6644],
+						"LatencyTime": [24391],
+						"ButtonClicks": [9370],
+						"NotOnButtonError": [27117],
+						"OutofSequenceError": [12096],
+						"LineLength": [29843],
+						"LineLengthPct": [14822],
+						"Speed":[32569],
+					}					
+				},
+				"Numtrials": [17548]
+		},
+		"WheelOfFortune": {
+			"Description": [],
+			"References": [],
+			"DataProblems": [],
+			"Data": {
+				"TrialsRTs": [],
+				"Condition": [],
+				"CorrectTrialResponses": [],
+				"Onset": [],
+				"Duration": [],
+				"Block": [],				
+				"Scored": {
+					"ReactionTime": {
+						"Mean": {
+							"Win": [2527],
+							"Loss": [20273],
+							"RiskyChoice": [5252],
+							"SafeChoice": [22999],
+						},
+						"Stdev": {
+							"Win": [7978],
+							"Loss": [9795],
+							"RiskyChoice": [27542],
+							"SafeChoice": [12521],
+						}
+					},
+					"Performance": {
+						"pWin": [.07],
+						"pLoss": [.28],
+						"pRiskyChoice": [.48],
+						"pRiskyChoice|win": [.69],
+						"pRiskyChoice|lose":[.89],
+					}
+				},
+				"Numtrials": {
+					"Win": [25242],
+					"Loss": [10221],
+					"RiskyChoice": [27968],
+					"SafeChoice": [12947]
+				} 
+			}
+		}
+	}
+}
